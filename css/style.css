@@ -1,0 +1,45 @@
+
+body {
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../img/cocktail-2.jpg);
+    background-size: cover;
+    background-position: 25%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+header {
+    padding: 20px;
+    text-transform: uppercase;
+    width: 203px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+h1, h3 {
+    font-weight: bold;
+}
+
+.panel-title {
+    color: lightskyblue;
+}
+    
+a, a:hover, a:focus, a:active {
+    color: hotpink;
+    text-decoration: none;
+}
+
+.col-sm-9 {
+    padding-top: 5vh;
+    background-color: #343a40;
+    opacity: 0.8;
+}
+
+.col-sm-3 {
+    opacity: 0.9;
+}
+
+
